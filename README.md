@@ -1,17 +1,32 @@
-# Abhinav Tiwary - Resume Website
 
-A clean and responsive **resume website** built using basic **HTML and CSS**.  
-Designed for showcasing my professional details, education background, and skills in a simple one-page format.
+---
 
-<img width="1000" height="697" alt="image" src="https://github.com/user-attachments/assets/e6699278-be0e-42e1-aa0e-b8c9a25d99f9" />
+## 📷 Screenshot
 
-
+<img width="1000" height="697" alt="image" src="https://github.com/user-attachments/assets/204b3759-a1eb-4576-8789-907516d05824" />
 
 
-## 🛠️ Built With
+The resume is designed with a box border, centered layout, clean typography, and responsive design.
 
-- HTML5
-- CSS3
-- Google Fonts
-- Font Awesome Icons
+---
 
+## 📌 Features
+
+- Responsive layout
+- Semantic HTML structure
+- Contact links with icons
+- Boxed container with soft shadows
+- Minimal and clean design
+
+---
+
+## 📬 Contact
+
+📧 gyanutiwari758@gmail.com  
+📍 Greater Noida, India
+
+---
+
+## 🧩 License
+
+This project is open-source and available under the [MIT License](LICENSE).
