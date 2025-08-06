@@ -3,8 +3,6 @@
 A clean and responsive **resume web page** built using basic **HTML and CSS**.  
 Showcases my education, skills, and contact information in a professional and minimal layout.
 
-<img width="1000" height="697" alt="image" src="https://github.com/user-attachments/assets/050bfb45-5cbc-4a32-af47-64719a8a273e" />
-
 ---
 
 ## 🔗 Live Demo
@@ -47,8 +45,8 @@ abhinav-resume/
 ---
 
 ## 🖼️ Screenshot
+<img width="1000" height="697" alt="image" src="https://github.com/user-attachments/assets/050bfb45-5cbc-4a32-af47-64719a8a273e" />
 
-![Resume Screenshot](./screenshot.png)
 
 ---
 
